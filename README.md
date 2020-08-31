@@ -8,4 +8,4 @@ Add this line to your `Packages/manifest.json` file
 ```
 
 ## Usage
-![Image](#img/how-to.png)
+![Image](img/how-to.png)

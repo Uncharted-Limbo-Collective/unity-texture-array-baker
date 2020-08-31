@@ -4,7 +4,7 @@
 ## Add as a Unity Package
 Add this line to your `Packages/manifest.json` file
 ```js
-"ulc-tools-texture_array_baker": "https://github.com/GeorgeAdamon/unity-texture-array-baker.git?path=/UnityProject/Assets/TextureArrayBaker#master",
+"ulc-tools-texture_array_baker": "https://github.com/Uncharted-Limbo-Collective/unity-texture-array-baker.git?path=/UnityProject/Assets/TextureArrayBaker#master",
 ```
 
 ## Usage

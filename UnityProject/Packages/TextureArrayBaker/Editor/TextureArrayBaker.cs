@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering;
 
-namespace TextureArrayBaker.Editor
+namespace UnchartedLimbo.Tools.TextureArrayBaker.Editor
 {
     public class TextureArrayBaker : EditorWindow
     {

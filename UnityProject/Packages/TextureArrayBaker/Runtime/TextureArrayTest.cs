@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UnchartedLimbo.Tools.TextureArrayBaker.Tests
+namespace UnchartedLimbo.Tools.TextureArrayBaker.Runtime.Tests
 {
 [ExecuteAlways]
 public class TextureArrayTest : MonoBehaviour

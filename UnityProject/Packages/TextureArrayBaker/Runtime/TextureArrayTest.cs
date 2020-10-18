@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace UnchartedLimbo.Tools.TextureArrayBaker.Tests
+{
 [ExecuteAlways]
 public class TextureArrayTest : MonoBehaviour
 {
@@ -30,5 +32,5 @@ public class TextureArrayTest : MonoBehaviour
         mr.sharedMaterial.SetInt("_Frame", frame);  
     }
     
-    
+}
 }
